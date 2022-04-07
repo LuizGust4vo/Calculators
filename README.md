@@ -1,3 +1,3 @@
 ## Calculator_Projects
 
-* Calculadoras desenvolvidas com o objetivo de praticar programação.
+* Repositório criado para armazenar calculadoras desenvolvidas com o objetivo de aprender e praticar programação.
